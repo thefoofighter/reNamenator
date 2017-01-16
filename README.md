@@ -1,6 +1,6 @@
 ## reNamenator
 
-reNamenator is a tool for replacing characters in the names of files on folders that are dropped onto the program. 
+reNamenator is a tool for replacing characters in the names of files or folders that are dropped onto the program. 
 
 Many files that are downloaded from the net have names where spaces are substituted with dots, dashes or underscores. This tool replaces all instances of these in any file or folder dropped on the program. 
 
