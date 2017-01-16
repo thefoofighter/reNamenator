@@ -6,8 +6,9 @@ Many files that are downloaded from the net have names where spaces are substitu
 
 Typically named problem files include:
 
-This.is.a.file.you.downloaded.rar
-This_is_a_folder_you_extracted_from_that_file
+*This.is.a.file.you.downloaded.rar*
+
+*This_is_a_folder_you_extracted_from_that_file*
 
 Replace these characters with spaces, empty space or whatever character you like.
 
