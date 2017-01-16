@@ -22,10 +22,18 @@ Grab the latest executable from [here](https://github.com/thefoofighter/reNamena
 
 ### Notes
 
-It will not recurse through child folders or files if a folder is dropped onto the program
-Future updates if anyone show interest may include, logging, options and feature requests
+It will not recurse through child folders or files if a folder is dropped onto the program.
+
+Future updates if anyone shows interest may include, logging, options and feature requests.
+
 Please do file issues if you come across anything odd.
 
 ### Screenshots
 
 ![reNamenator](https://s5.postimg.org/decqo6cp3/renamenator.png)
+
+### License
+
+MIT License
+
+Full License [here](https://github.com/thefoofighter/reNamenator/blob/master/LICENSE)
