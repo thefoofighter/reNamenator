@@ -602,7 +602,7 @@ namespace TheSortingHat
 
         private void btn_about_Click(object sender, EventArgs e)
         {
-            About box = new About();
+            About box = new About();           
             box.ShowDialog();
         }
     }
