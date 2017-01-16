@@ -18,7 +18,7 @@ Grab the latest executable from [here](https://github.com/thefoofighter/reNamena
 
 ### Usage
 
-1. Drop any ammount of files or folders or combination of each onto the program
+1. Drop any amount of files or folders or combination of each onto the program
 2. Watch the magic.
 
 ### Notes
